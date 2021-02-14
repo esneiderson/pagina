@@ -150,3 +150,17 @@ body{
   margin-bottom: -700px;
 
 }
+
+
+.gg1{
+  width: 150px;
+  height: 60px;
+  top: 5px;
+  color: blue;
+}
+.gg2{
+  width: 150px;
+  height: 60px;
+  color: blue;
+   top: 5px;
+}
